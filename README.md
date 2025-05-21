@@ -1,5 +1,4 @@
-```markdown
-# 🖐️ Hand Tracking AR/VR Project using Python & Unity
+# 🖐️ 3D Hand Gesture-Controlled Game using Python & Unity
 
 ![Hand Tracking](https://img.shields.io/badge/AR--VR-Unity%20%7C%20Python-blueviolet?style=flat-square)
 ![Status](https://img.shields.io/badge/status-completed-brightgreen?style=flat-square)
@@ -113,7 +112,7 @@ E --> F[Interactive Visualization]
 
 > 👁️ Watch your hand movements come to life in a 3D Unity scene!
 
-![Demo GIF](https://media.giphy.com/media/3oEduU0Rmpt3zpuJSo/giphy.gif)
+![Demo GIF](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExenVqcnVndncyeHU2c2h3aDRrNG1oczhoMXF6eG52cDVwOGI0bnQzYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/OknZ0agq8hW05bZhh1/giphy.gif)
 
 ---
 
@@ -128,27 +127,6 @@ E --> F[Interactive Visualization]
 
 ## 🤝 Credits
 
-Project inspired by real-time hand tracking and AR/VR application integration.
+Project inspired by real-time hand tracking and AR/VR application integration and Learn from Youtube (Murtaza's Workshop - Robotics and AI)
 
 ---
-
-## 📄 License
-
-This project is licensed under the [MIT License](LICENSE).
-
----
-
-## 💡 Want to Expand?
-
-Consider adding:
-
-* ✅ Gesture recognition for specific commands
-* 🌐 WebSocket or HTTP-based communication
-* 🧤 Integration with VR hardware (e.g., Oculus, Leap Motion)
-
-```
-
----
-
-If you'd like me to generate an actual `README.md` file to upload to your GitHub repo or convert this into a styled HTML preview, I can do that too. Let me know!
-```
